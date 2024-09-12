@@ -25,3 +25,8 @@ mkdocs gh-deploy
 ```
 
 ## Histórico de versão
+
+
+| **Versão** |          **Resumo**         | **Autor** | **Revisor** | **Data**   |
+|------------|-----------------------------|-----------|-------------|------------|
+| 1.0        | Commit inicial do README.md | Felipe M. | ----------- | 11/09/2024 |
